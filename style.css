@@ -1,0 +1,72 @@
+.main{
+    margin: 0 auto; 
+    text-align: center;
+    background-color: aqua;
+    position: relative;
+    border-top: 9px skyblue;
+    border-left: 9px skyblue;
+    border-right: 9px skyblue;
+    border-bottom: 9px skyblue;
+    padding: 20px;
+    width: 800px;
+    height: 700px;
+}
+
+.software{
+    width: 50%;
+    margin: 0 auto; 
+    text-align: center;
+    background-color: white;
+    box-sizing: small;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.heading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:royalblue;
+
+}
+
+.Name1{
+    margin-left: 120px;
+    display: block;
+}
+.employee1{
+    margin-left: 120px;
+    display:block;
+}
+
+.email1{
+    margin-left: 120px;
+    display: block;
+}
+
+.mobile1{
+    margin-left: 120px;
+    display:block;
+}
+
+.softA{
+
+    display: block;
+}
+.main1{
+
+    color: red;
+}
+
+.Request{
+    background-color: royalblue;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 8px;
+            width: 200px;
+            
+}
